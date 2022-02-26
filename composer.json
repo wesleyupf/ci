@@ -1,0 +1,17 @@
+{
+    "name": "wesley/ci",
+    "description": "Estudando CI",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Wesley\\Ci\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wesley A.",
+            "email": "wesley@upflex.com.br"
+        }
+    ],
+    "require": {}
+}
